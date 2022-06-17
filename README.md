@@ -7,8 +7,8 @@ Production ENV  : Google Cloud Platform
 ## Step :
 1. Train and Export the model in ModelTraining.ipynb
 2. Test the prediction to find the answer based on intent in Deployment.ipynb
-\n
-Note :
+
+###### Note :
 prediction_v3.py used for deployment in google cloud platform for integration with mobile apps 
 
 
